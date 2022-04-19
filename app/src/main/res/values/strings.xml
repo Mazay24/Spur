@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Spur</string>
+    <string name="Text">распорядок дня котика</string>
+    <string-array name="delaet">
+        <item>проснувся</item>
+        <item>покушав</item>
+        <item>азаруетб</item>
+        <item>умывся</item>
+        <item>заснув</item>
+    </string-array>
 </resources>
